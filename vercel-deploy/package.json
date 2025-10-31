@@ -1,0 +1,9 @@
+{
+  "name": "jounce-golf-scorecard",
+  "version": "1.0.0",
+  "description": "Golf Scorecard built with Jounce",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  }
+}
